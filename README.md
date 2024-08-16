@@ -3,7 +3,7 @@
 Meu nome é Felipe Guedes
 
 
-Estou estudando na ![]([link](https://www.alura.com.br/))
+Estou estudando na ![Alura]([link](https://www.alura.com.br/))
 
 Estou me desenvolvendo na linguagem JavaScript
 
